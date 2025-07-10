@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Larissa Kitazuki
+# 👋 Olá, eu sou a Larissa Kitayama
 
 ## 🎓 Estudante de Sistemas de Informação | Desenvolvedora Backend Java
 
