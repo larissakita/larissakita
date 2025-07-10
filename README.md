@@ -14,8 +14,7 @@
 - 📚 Estudante no 5º período de Sistemas de Informação  
 - 💻 Apaixonada por desenvolvimento backend com Java e Spring Framework  
 - 🚀 Experiência em construção de APIs REST e integração com APIs externas  
-- 🔎 Buscando oportunidades para atuar como desenvolvedora júnior  
-- 🛠️ Experiência em gestão e acompanhamento de projetos na área de engenharia  
+- 🔎 Buscando oportunidades para meu primeiro emprego na área de desenvolvimento  
 
 ---
 
@@ -29,14 +28,13 @@
 
 ---
 
-## Projetos em Destaque
+## Projeto em Destaque
 
 ### Conversor de Moedas  
 Projeto desenvolvido durante a formação Oracle Next Education.  
 Integra APIs externas para conversão dinâmica de moedas.
 
-### Sistema de Controle de Atividades  
-Aplicação acadêmica para gerenciamento e análise de atividades físicas, com backend em Java.
+
 
 ---
 
