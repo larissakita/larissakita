@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-- 📚 Estudante no 5º período de Sistemas de Informação  
+- 📚 Estudante no 6º período de Sistemas de Informação  
 - 💻 Apaixonada por desenvolvimento backend com Java e Spring Framework  
 - 🚀 Experiência em construção de APIs REST e integração com APIs externas  
 - 🔎 Buscando oportunidades para meu primeiro emprego na área de desenvolvimento  
