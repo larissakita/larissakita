@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-- 📚 Estudante no 6º período de Sistemas de Informação  
+- 📚 Estudante no 7º período de Sistemas de Informação  
 - 💻 Apaixonada por desenvolvimento backend com Java e Spring Framework  
 - 🚀 Experiência em construção de APIs REST e integração com APIs externas  
 - 🔎 Buscando oportunidades para meu primeiro emprego na área de desenvolvimento  
@@ -20,20 +20,37 @@
 
 ## Habilidades Técnicas
 
-| Backend        | Frontend       | Banco de Dados    | Ferramentas       |
-| -------------- | -------------- | ----------------- | ----------------- |
-| Java           | HTML, CSS      | MySQL             | Git, GitHub       |
-| Spring Boot    | JavaScript     | SQL               | IntelliJ IDEA     |
-| APIs REST      |                |                   | Postman           |
+| Backend            | Frontend       | Banco de Dados    | Ferramentas       |
+| --------------     | -------------- | ----------------- | ----------------- |
+| Java               | HTML, CSS      | MySQL             | Git, GitHub       |
+| Spring Boot        | JavaScript     | SQL               | IntelliJ IDEA     |
+| Spring Security    |                |                   | Postman           |
+| APIs REST          |                |                   | Insomnia          |
+| JWT Authentication |                |                   | Maven             |
+
 
 ---
 
 ## Projeto em Destaque
 
-### Conversor de Moedas  
-Projeto desenvolvido durante a formação Oracle Next Education.  
-Integra APIs externas para conversão dinâmica de moedas.
+### API VollMed  
+API REST desenvolvida com Java e Spring Boot para gerenciamento de clínica médica.
+### Funcionalidades
+- CRUD completo de usuários, médicos e pacientes
+- Autenticação JWT
+- Proteção de rotas com Spring Security
+- Validação de dados
+### Tecnologias
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- MySQL
+- Maven
+- JPA/Hibernate
 
+🔗 Repositório:
+https://github.com/larissakita/api-rest-cadastro-hospital
 
 
 ---
