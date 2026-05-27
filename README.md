@@ -52,6 +52,10 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de clínica méd
 🔗 Repositório:
 https://github.com/larissakita/api-rest-cadastro-hospital
 
+### Resultado API
+https://github.com/user-attachments/assets/91b88291-6695-46e6-8fb3-4c908082bb1a
+
+
 
 ---
 
@@ -61,6 +65,4 @@ https://github.com/larissakita/api-rest-cadastro-hospital
 
 ---
 
-<div align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=larissakita&show_icons=true&theme=dark" />
-</div>
+
